@@ -14,4 +14,4 @@
      A            WODES     R               REFFLD(DESC)
      A                                      COLHDG('Company Text')
      A            WDELT     R               REFFLD(A1)
-LVB  A                                      COLHDG('Deletion Flag 1')
+LVB  A                                      COLHDG('Deletion Flag 2')
